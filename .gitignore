@@ -1,0 +1,36 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio / Rider files
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python / ML-Agents cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Training outputs - upload only selected result images manually
+results/
+summaries/
