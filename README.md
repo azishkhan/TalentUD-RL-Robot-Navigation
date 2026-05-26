@@ -13,7 +13,7 @@ A reinforcement learning research project developed for **TALENTUD-IK** using **
 ### Robot Navigation Training Demo
 
 <p align="center">
-  <img src="Results/demo.gif" width="700"/>
+  <img src="Assets/UDtalent_RL - SampleScene - Windows, Mac, Linux - Unity 2022.3.62f3_ _DX11_ 2026-05-26 23-07-56.gif" width="700"/>
 </p>
 
 The humanoid RobotAgent learns to:
@@ -178,9 +178,6 @@ This produced more meaningful navigation behavior.
 - Improved obstacle avoidance
 - More stable navigation behavior
 
-<p align="center">
-  <img src="Results/ppo_training_comparison_with_rayperception_sensor.png" width="900"/>
-</p>
 
 ---
 
